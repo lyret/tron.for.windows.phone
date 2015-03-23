@@ -1,0 +1,5 @@
+Content\button_left.xnb
+Content\button_minus.xnb
+Content\button_plus.xnb
+Content\button_right.xnb
+Content\wallpaper.xnb

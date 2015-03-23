@@ -1,0 +1,4 @@
+\\utbfs2\utbvol5\home\s119375\desktop\TronGame\TronPhoneGui\TronPhoneGuiContent\obj\Windows Phone\Debug\TronPhoneGuiContent.contentprojResolveAssemblyReference.cache
+C:\Users\S119375\Desktop\TronGame\TronPhoneGui\TronPhoneGuiContent\obj\Windows Phone\Debug\TronPhoneGuiContent.contentprojResolveAssemblyReference.cache
+C:\Users\Jensen\Desktop\TronGame\TronPhoneGui\TronPhoneGuiContent\obj\Windows Phone\Debug\TronPhoneGuiContent.contentprojResolveAssemblyReference.cache
+\\utbfs2\UTBVOL5\home\S119375\Desktop\DevelopmentDudes Tron Game\trongame\tronphonegui\TronPhoneGuiContent\obj\Windows Phone\Debug\TronPhoneGuiContent.contentprojResolveAssemblyReference.cache

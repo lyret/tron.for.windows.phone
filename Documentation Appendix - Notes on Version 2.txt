@@ -1,0 +1,9 @@
+TRON GAME DOCUMENTATION APPENDIX
+Whats new in version 2?
+
+- Big update on how the game handles player animations and elapsed time in general. The animations are now super smooth and on a pixelbasis.
+
+- Changed how a the player bike handles inputs and turn signals from release events to on-pressed events. The choices made in the GUI are now remembered by the players character for the next time he would make a turn.
+
+- Fixed some mayor annoyances with the code and its structure. The codebase now relies on fewer magic numbers and more clearly handles various game events.
+- Further bug fixes.
